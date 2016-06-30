@@ -1,0 +1,19 @@
+body{
+  background-color: #deb887;
+  margin: 70px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+button {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+}
+
+#answer {
+  font-size: 50px;
+}
